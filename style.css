@@ -3,7 +3,7 @@ body {
   font-family: Times New Roman;
   color: #191970; /* Warna teks utama (Biru Gelap) */
 }
-.kartu profil {
+.kartu-profil {
   witdh:300px
   margin: 50px auto; /*50px jarak atas/bawah, auto menengahkan kiri/kanan */
 padding:20px
@@ -13,7 +13,7 @@ box-shadow:0 4px 8px rgba /*efek bayangan*/
   text-align: center; /*nengahin semua teks*/
 }
 |
-.kartu pelajar img {
+.kartu-pelajar img {
   witdh:150px;
   border-radius: 50% /*trik untuk mengubah foto menjadi bulat*/
 }
