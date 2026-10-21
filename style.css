@@ -1,0 +1,19 @@
+body {
+  background-color: #FFFFE0; /" warna kuning cerah */
+  font-family: Times New Roman;
+  color: #191970; /* Warna teks utama (Biru Gelap) */
+}
+.kartu profil {
+  witdh:300px
+  margin: 50px auto; /*50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding:20px
+  background-color:black;
+  border-radius: 15px; /* memebuat sudut menjadi melengkung*/
+box-shadow:0 4px 8px rgba /*efek bayangan*/
+  text-align: center; /*nengahin semua teks*/
+}
+|
+.kartu pelajar img {
+  witdh:150px;
+  border-radius: 50% /*trik untuk mengubah foto menjadi bulat*/
+}
