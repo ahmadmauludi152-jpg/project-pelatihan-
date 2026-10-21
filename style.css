@@ -1,14 +1,14 @@
 body {
-  background-color:#87CEFA; /* warna biru muda */
+  background-color:#87CEFA; /*warna biru muda*/
   font-family: Times New Roman;
-  color:#808080; /* Warna teks utama (abu-abu) */
+  color:#808080; /*Warna teks utama (abu-abu)*/
 }
 .kartu-profil {
   witdh:300px
-  margin: 50px auto; /*50px jarak atas/bawah, auto menengahkan kiri/kanan */
+  margin: 50px auto; /*50px jarak atas/bawah, auto menengahkan kiri/kanan*/
 padding:20px
   background-color:black;
-  border-radius: 15px; /* memebuat sudut menjadi melengkung*/
+  border-radius: 15px; /*memebuat sudut menjadi melengkung*/
 box-shadow:0 4px 8px rgba /*efek bayangan*/
   text-align: center; /*nengahin semua teks*/
 }
