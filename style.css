@@ -1,7 +1,7 @@
 body {
-  background-color: #FFFFE0; /" warna kuning cerah */
+  background-color:#87CEFA; /* warna biru muda */
   font-family: Times New Roman;
-  color: #191970; /* Warna teks utama (Biru Gelap) */
+  color:#808080; /* Warna teks utama (Biru Gelap) */
 }
 .kartu-profil {
   witdh:300px
